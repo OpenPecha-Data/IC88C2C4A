@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W19895
   title: དམར་མཆོད་ཀྱི་ཉེས་དམིགས
-  volume: ''
+  volume:
+    96f55c4d2455475d8bc5b7bab20d34ff:
+      image_group_id: I1CZ2005
+      title: Volume 1 of dmar mchod kyi nyes dmigs
+      volume_number: 1
+      total_pages: 34
   author: ''
+ebook_metadata:
+  title: དམར་མཆོད་ཀྱི་ཉེས་དམིགས
+  author: ''
+  sku: P008122
+  cover: cover.jpg
+  layers:
+  - pagination
